@@ -122,3 +122,12 @@ with handle_in.
 backends.
 * Learned to fetch WolframAlpha results from an HTTP service and
 share them with our channels.
+
+## Chapter 12 : Observer and Umbrellas
+
+* Used Observer to view our application.
+* Found a convenient place to split our application.
+* Moved our information system into its own child umbrella project.
+* Moved rumbl into its own child umbrella project.
+* Learned to identify configuration changes, including dependencies,
+supervision trees, and application configuration.
